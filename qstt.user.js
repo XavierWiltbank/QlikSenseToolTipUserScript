@@ -19,8 +19,6 @@ var observer = new MutationObserver(function (mutations, observer) {
     // fired when a mutation occurs
     $(".qv-function-tip-container").css("top", "20px");
     $(".qv-function-tip-container").css("left", "20px");
-    console.log(mutations, observer);
-    // ...
 });
 
 // define what element should be observed by the observer
