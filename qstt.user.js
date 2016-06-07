@@ -8,7 +8,7 @@
 // @version     1.0
 // @grant       none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
-// @updateURL   https://github.com/XavierWiltbank/QlikSenseToolTipUserScript/qstt.user.js
+// @updateURL   https://github.com/XavierWiltbank/QlikSenseToolTipUserScript/raw/master/qstt.user.js
 // ==/UserScript==
 
 // Code sourced from stack overflow answer: http://stackoverflow.com/questions/2844565/is-there-a-javascript-jquery-dom-change-listener/11546242#11546242
